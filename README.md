@@ -11,6 +11,8 @@
 - Experienced in building machine learning models
 - Innovative and able to improvise solutions to problems.
 
+Feel Free to contact me on: rohanstomar11@gmail.com
+
 <!---
 rohanstomar11/rohanstomar11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
